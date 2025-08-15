@@ -1,0 +1,2 @@
+# JavaGUI4Win
+这是一个集成jdk或jre以及mysql的Java GUI桌面程序安装包，使用inno setup进行打包，可以在没有安装jdk或jre以及没有安装mysql的pc上安装使用Java桌面程序
